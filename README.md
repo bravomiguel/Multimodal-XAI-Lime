@@ -1,4 +1,4 @@
-# Multimodal-XML-Lime
+# Multimodal-XAI-Lime
 Dissertation submission for my MSc Data Science @ City University, London (2021).
 
 ## Overview
